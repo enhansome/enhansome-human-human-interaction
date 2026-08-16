@@ -40,13 +40,13 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Generation
 
-* Neural Animation Layering for Synthesizing Martial Arts Movements, *SIGGRAPH'21*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf) ⭐ 8,835 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
+* Neural Animation Layering for Synthesizing Martial Arts Movements, *SIGGRAPH'21*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf) ⭐ 8,837 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
 
-* Local Motion Phases for Learning Multi-Contact Character Movements, *SIGGRAPH'20*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf) ⭐ 8,835 | 🐛 36 | 🌐 C++ | 📅 2026-04-17, [\[Code\]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020) ⭐ 8,835 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
+* Local Motion Phases for Learning Multi-Contact Character Movements, *SIGGRAPH'20*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf) ⭐ 8,837 | 🐛 36 | 🌐 C++ | 📅 2026-04-17, [\[Code\]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020) ⭐ 8,837 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
 
-* Human Motion Diffusion as a Generative Prior, *ICLR'24*, [\[Paper\]](https://arxiv.org/abs/2303.01418), [\[Project\]](https://priormdm.github.io/priorMDM-page/), [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 524 | 🐛 6 | 🌐 Python | 📅 2026-04-21
+* Human Motion Diffusion as a Generative Prior, *ICLR'24*, [\[Paper\]](https://arxiv.org/abs/2303.01418), [\[Project\]](https://priormdm.github.io/priorMDM-page/), [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 525 | 🐛 6 | 🌐 Python | 📅 2026-04-21
 
-* Inter-X: Towards Versatile Human-Human Interaction Analysis, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2312.16051), [\[Project\]](https://liangxuy.github.io/inter-x/), [\[Code\&Data\]](https://github.com/liangxuy/Inter-X) ⭐ 233 | 🐛 12 | 🌐 Python | 📅 2024-08-11
+* Inter-X: Towards Versatile Human-Human Interaction Analysis, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2312.16051), [\[Project\]](https://liangxuy.github.io/inter-x/), [\[Code\&Data\]](https://github.com/liangxuy/Inter-X) ⭐ 234 | 🐛 12 | 🌐 Python | 📅 2024-08-11
 
 * Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment, *ICLR'24*, [\[Paper\]](https://arxiv.org/abs/2403.18811), [\[Project\]](https://lisiyao21.github.io/projects/Duolando/), [\[Code\]](https://github.com/lisiyao21/Duolando) ⭐ 113 | 🐛 5 | 🌐 Python | 📅 2024-03-28, [\[Data\]](https://drive.google.com/file/d/1sWc1MeRhRa9LoxarsJVFvt5vxsRk-F_M/view)
 
@@ -126,7 +126,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### Reaction Generation
 
-* Inter-X: Towards Versatile Human-Human Interaction Analysis, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2312.16051), [\[Project\]](https://liangxuy.github.io/inter-x/), [\[Code\&Data\]](https://github.com/liangxuy/Inter-X) ⭐ 233 | 🐛 12 | 🌐 Python | 📅 2024-08-11
+* Inter-X: Towards Versatile Human-Human Interaction Analysis, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2312.16051), [\[Project\]](https://liangxuy.github.io/inter-x/), [\[Code\&Data\]](https://github.com/liangxuy/Inter-X) ⭐ 234 | 🐛 12 | 🌐 Python | 📅 2024-08-11
 
 * ReGenNet: Towards Human Action-Reaction Synthesis, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2403.11882), [\[Project\]](https://liangxuy.github.io/ReGenNet/), [\[Code\]](https://github.com/liangxuy/ReGenNet) ⭐ 72 | 🐛 3 | 🌐 Python | 📅 2024-09-23
 
@@ -200,7 +200,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Detection
 
-* Inter-X: Towards Versatile Human-Human Interaction Analysis, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2312.16051), [\[Project\]](https://liangxuy.github.io/inter-x/), [\[Code\&Data\]](https://github.com/liangxuy/Inter-X) ⭐ 233 | 🐛 12 | 🌐 Python | 📅 2024-08-11
+* Inter-X: Towards Versatile Human-Human Interaction Analysis, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2312.16051), [\[Project\]](https://liangxuy.github.io/inter-x/), [\[Code\&Data\]](https://github.com/liangxuy/Inter-X) ⭐ 234 | 🐛 12 | 🌐 Python | 📅 2024-08-11
 
 * Nonverbal Interaction Detection, *ECCV'24*, [\[Paper\]](https://arxiv.org/abs/2407.08133), [\[Code\]](https://github.com/weijianan1/NVI) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2024-10-30
 
@@ -214,7 +214,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Datasets
 
-* Inter-X: Towards Versatile Human-Human Interaction Analysis, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2312.16051), [\[Project\]](https://liangxuy.github.io/inter-x/), [\[Code\&Data\]](https://github.com/liangxuy/Inter-X) ⭐ 233 | 🐛 12 | 🌐 Python | 📅 2024-08-11
+* Inter-X: Towards Versatile Human-Human Interaction Analysis, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2312.16051), [\[Project\]](https://liangxuy.github.io/inter-x/), [\[Code\&Data\]](https://github.com/liangxuy/Inter-X) ⭐ 234 | 🐛 12 | 🌐 Python | 📅 2024-08-11
 
 * Hi4D: 4D Instance Segmentation of Close Human Interaction, *CVPR'23*, [\[Paper\]](https://arxiv.org/abs/2303.15380v1), [\[Project\]](https://yifeiyin04.github.io/Hi4D/), [\[Code\&Data\]](https://github.com/yifeiyin04/Hi4D) ⭐ 100 | 🐛 1 | 🌐 Python | 📅 2024-05-27
 
@@ -284,4 +284,4 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
