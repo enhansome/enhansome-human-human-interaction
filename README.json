@@ -1,691 +1,740 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Recent Papers"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Neural Animation Layering for Synthesizing Martial Arts Movements, SIGGRAPH'21, [Paper]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Neural Animation Layering for Synthesizing Martial Arts Movements, SIGGRAPH'21, [Paper]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98470332,
+                "language": "C++",
+                "last_commit": "2026-04-17T17:03:39Z",
+                "owner": "sebastianstarke",
+                "repo": "AI4Animation",
+                "stars": 8843
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Local Motion Phases for Learning Multi-Contact Character Movements, SIGGRAPH'20, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98470332,
+                "language": "C++",
+                "last_commit": "2026-04-17T17:03:39Z",
+                "owner": "sebastianstarke",
+                "repo": "AI4Animation",
+                "stars": 8843
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Human Motion Diffusion as a Generative Prior, ICLR'24, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608261664,
+                "language": "Python",
+                "last_commit": "2026-04-21T00:27:45Z",
+                "owner": "priorMDM",
+                "repo": "priorMDM",
+                "stars": 525
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inter-X: Towards Versatile Human-Human Interaction Analysis, CVPR'24, [Paper]",
+              "description": ", [Project], [Code&Data]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 735810008,
+                "language": "Python",
+                "last_commit": "2024-08-11T06:45:18Z",
+                "owner": "liangxuy",
+                "repo": "Inter-X",
+                "stars": 235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment, ICLR'24, [Paper]",
+              "description": ", [Project], [Code], [Data]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 777667978,
+                "language": "Python",
+                "last_commit": "2024-03-28T03:29:05Z",
+                "owner": "lisiyao21",
+                "repo": "Duolando",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InterControl: Zero-shot Human Interaction Generation by Controlling Every Joint, NeurIPS'24, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 723958373,
+                "language": "Python",
+                "last_commit": "2025-02-20T09:40:35Z",
+                "owner": "zhenzhiwang",
+                "repo": "intercontrol",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation, ICCV'23, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 668313507,
+                "language": "Python",
+                "last_commit": "2024-05-14T09:06:27Z",
+                "owner": "Szy-Young",
+                "repo": "ActFormer",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "in2IN: Leveraging individual Information to Generate Human INteractions, CVPRW'24, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 787072793,
+                "language": "Python",
+                "last_commit": "2024-07-29T13:49:13Z",
+                "owner": "pabloruizponce",
+                "repo": "in2IN",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InterMask: 3D Human Interaction Generation via Collaborative Masked Modeling, ICLR'25, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 870908117,
+                "language": "Python",
+                "last_commit": "2025-09-08T19:44:28Z",
+                "owner": "gohar-malik",
+                "repo": "InterMask",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TIMotion: Temporal and Interactive Framework for Efficient Human-Human Motion Generation, CVPR'25, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 849334382,
+                "language": "Python",
+                "last_commit": "2026-01-15T09:09:14Z",
+                "owner": "AIGC-Explorer",
+                "repo": "TIMotion",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ponimator: Unfolding Interactive Pose for Versatile Human-human Interaction Animation, ICCV'25, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1030612830,
+                "language": "Python",
+                "last_commit": "2025-12-10T09:25:34Z",
+                "owner": "stevenlsw",
+                "repo": "ponimator",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unified Number-Free Text-to-Motion Generation Via Flow Matching, CVPR'26, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1189131010,
+                "language": "Python",
+                "last_commit": "2026-06-06T10:43:30Z",
+                "owner": "Githubhgh",
+                "repo": "UMF_CVPR",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Diffusion Forcing for Multi-Agent Interaction Sequence Modeling, arXiv'25, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1183759831,
+                "language": "Python",
+                "last_commit": "2026-05-04T08:22:33Z",
+                "owner": "Von31",
+                "repo": "MAGNet-code",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MixerMDM: Learnable Composition of Human Motion Diffusion Models, CVPR'25, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 958691556,
+                "language": "Python",
+                "last_commit": "2026-06-01T15:30:18Z",
+                "owner": "pabloruizponce",
+                "repo": "MixerMDM",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InterMoE: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE, AAAI'26, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1096398186,
+                "language": "Python",
+                "last_commit": "2026-04-06T17:28:44Z",
+                "owner": "Lighten001",
+                "repo": "InterMoE",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ContactGen: Contact-Guided Interactive 3D Human Generation for Partners, AAAI'24, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658590159,
+                "language": "Python",
+                "last_commit": "2024-10-11T07:33:16Z",
+                "owner": "dongjunKu",
+                "repo": "ContactGen",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation, CVPR'26, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1191215559,
+                "language": "Python",
+                "last_commit": "2026-06-19T07:40:13Z",
+                "owner": "boycehbz",
+                "repo": "StaCOM",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling, SIGGRAPH'25, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1007162920,
+                "language": "HTML",
+                "last_commit": "2026-01-19T18:55:14Z",
+                "owner": "anindita127",
+                "repo": "DuetGen",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Invisible Strings: Revealing Latent Dancer-to-Dancer Interactions with Graph Neural Networks, ICCC'25, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 831747722,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-09-27T01:25:01Z",
+                "owner": "humanai-foundation",
+                "repo": "ChoreoAI",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation, ICASSP'26, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1223075579,
+                "language": "Python",
+                "last_commit": "2026-05-29T11:19:12Z",
+                "owner": "iSEE-Laboratory",
+                "repo": "PhysiGen",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Social Structure Matters in 3D Human-Human Interaction Generation, arXiv'26, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1277787567,
+                "language": "Python",
+                "last_commit": "2026-06-24T10:52:46Z",
+                "owner": "EngineeringAI-LAB",
+                "repo": "SocialStructureHHI",
+                "stars": 3
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-04-17T17:03:39Z",
-            "owner": "sebastianstarke",
-            "repo": "AI4Animation",
-            "stars": 8840
-          }
+          "node_type": "group",
+          "title": "HHI Generation"
         },
         {
-          "node_type": "item",
-          "title": "Local Motion Phases for Learning Multi-Contact Character Movements, SIGGRAPH'20, [Paper]",
-          "description": ", [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-04-17T17:03:39Z",
-            "owner": "sebastianstarke",
-            "repo": "AI4Animation",
-            "stars": 8840
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Inter-X: Towards Versatile Human-Human Interaction Analysis, CVPR'24, [Paper]",
+              "description": ", [Project], [Code&Data]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 735810008,
+                "language": "Python",
+                "last_commit": "2024-08-11T06:45:18Z",
+                "owner": "liangxuy",
+                "repo": "Inter-X",
+                "stars": 235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ReGenNet: Towards Human Action-Reaction Synthesis, CVPR'24, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 770930924,
+                "language": "Python",
+                "last_commit": "2024-09-23T19:58:28Z",
+                "owner": "liangxuy",
+                "repo": "ReGenNet",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, ICLR'25, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 932640365,
+                "language": "Python",
+                "last_commit": "2025-03-13T12:40:56Z",
+                "owner": "zju3dv",
+                "repo": "ready_to_react",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Role-aware Interaction Generation from Textual Description, ICCV'23, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 707533563,
+                "language": "Python",
+                "last_commit": "2023-10-20T07:31:20Z",
+                "owner": "line",
+                "repo": "Human-Interaction-Generation",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reaction Generation"
         },
         {
-          "node_type": "item",
-          "title": "Human Motion Diffusion as a Generative Prior, ICLR'24, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-21T00:27:45Z",
-            "owner": "priorMDM",
-            "repo": "priorMDM",
-            "stars": 525
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hi4D: 4D Instance Segmentation of Close Human Interaction, CVPR'23, [Paper]",
+              "description": ", [Project], [Code&Data]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608561840,
+                "language": "Python",
+                "last_commit": "2024-05-27T12:59:22Z",
+                "owner": "yifeiyin04",
+                "repo": "Hi4D",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MultiPhys: Multi-Person Physics-aware 3D Motion Estimation, CVPR'24, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 787081438,
+                "language": "Python",
+                "last_commit": "2025-03-24T21:52:36Z",
+                "owner": "nicolasugrinovic",
+                "repo": "multiphys",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multi-Person Extreme Motion Prediction, CVPR'22, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 435884925,
+                "language": "Python",
+                "last_commit": "2022-03-10T13:07:51Z",
+                "owner": "GUO-W",
+                "repo": "MultiMotion",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption, CVPR'24, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 778128920,
+                "language": "Python",
+                "last_commit": "2025-08-03T07:52:48Z",
+                "owner": "boycehbz",
+                "repo": "HumanInteraction",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reconstructing Close Human Interactions from Multiple Views, SIGGRAPH Asia'23, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 691405607,
+                "language": null,
+                "last_commit": "2024-01-29T14:33:44Z",
+                "owner": "zju3dv",
+                "repo": "CloseMoCap",
+                "stars": 40
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "HHI Reconstruction"
         },
         {
-          "node_type": "item",
-          "title": "Inter-X: Towards Versatile Human-Human Interaction Analysis, CVPR'24, [Paper]",
-          "description": ", [Project], [Code&Data]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-11T06:45:18Z",
-            "owner": "liangxuy",
-            "repo": "Inter-X",
-            "stars": 235
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Inter-X: Towards Versatile Human-Human Interaction Analysis, CVPR'24, [Paper]",
+              "description": ", [Project], [Code&Data]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 735810008,
+                "language": "Python",
+                "last_commit": "2024-08-11T06:45:18Z",
+                "owner": "liangxuy",
+                "repo": "Inter-X",
+                "stars": 235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nonverbal Interaction Detection, ECCV'24, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 824095051,
+                "language": "Python",
+                "last_commit": "2024-10-30T02:48:28Z",
+                "owner": "weijianan1",
+                "repo": "NVI",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos, CVPR'24, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 779270352,
+                "language": "Python",
+                "last_commit": "2024-05-21T10:20:58Z",
+                "owner": "MCG-NJU",
+                "repo": "SportsHHI",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "HHI Detection"
         },
         {
-          "node_type": "item",
-          "title": "Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment, ICLR'24, [Paper]",
-          "description": ", [Project], [Code], [Data]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-28T03:29:05Z",
-            "owner": "lisiyao21",
-            "repo": "Duolando",
-            "stars": 113
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Inter-X: Towards Versatile Human-Human Interaction Analysis, CVPR'24, [Paper]",
+              "description": ", [Project], [Code&Data]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 735810008,
+                "language": "Python",
+                "last_commit": "2024-08-11T06:45:18Z",
+                "owner": "liangxuy",
+                "repo": "Inter-X",
+                "stars": 235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hi4D: 4D Instance Segmentation of Close Human Interaction, CVPR'23, [Paper]",
+              "description": ", [Project], [Code&Data]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608561840,
+                "language": "Python",
+                "last_commit": "2024-05-27T12:59:22Z",
+                "owner": "yifeiyin04",
+                "repo": "Hi4D",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation, ICCV'23, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 668313507,
+                "language": "Python",
+                "last_commit": "2024-05-14T09:06:27Z",
+                "owner": "Szy-Young",
+                "repo": "ActFormer",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multi-Person Extreme Motion Prediction, CVPR'22, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 435884925,
+                "language": "Python",
+                "last_commit": "2022-03-10T13:07:51Z",
+                "owner": "GUO-W",
+                "repo": "MultiMotion",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos, CVPR'24, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 779270352,
+                "language": "Python",
+                "last_commit": "2024-05-21T10:20:58Z",
+                "owner": "MCG-NJU",
+                "repo": "SportsHHI",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HHI-Assist: A Dataset and Benchmark of Human-Human Interaction in Physical Assistance Scenario, RA-L'25, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 848900287,
+                "language": "Python",
+                "last_commit": "2025-06-30T17:48:42Z",
+                "owner": "vita-epfl",
+                "repo": "HHI-Assist",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "HHI Datasets"
         },
         {
-          "node_type": "item",
-          "title": "InterControl: Zero-shot Human Interaction Generation by Controlling Every Joint, NeurIPS'24, [Paper]",
-          "description": ", [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-20T09:40:35Z",
-            "owner": "zhenzhiwang",
-            "repo": "intercontrol",
-            "stars": 83
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Stochastic Multi-Person 3D Motion Forecasting, ICLR'23, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608446984,
+                "language": "Python",
+                "last_commit": "2023-09-01T01:59:00Z",
+                "owner": "Sirui-Xu",
+                "repo": "DuMMF",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Joint-Relation Transformer for Multi-Person Motion Prediction, ICCV'23, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 672714459,
+                "language": "Python",
+                "last_commit": "2023-09-20T13:53:05Z",
+                "owner": "MediaBrain-SJTU",
+                "repo": "JRTransformer",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multi-Person Interaction Generation from Two-Person Motion Priors, SIGGRAPH'25, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1025825867,
+                "language": "Python",
+                "last_commit": "2026-02-12T16:02:18Z",
+                "owner": "wenningxu",
+                "repo": "multi-person-interaction",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PINO: Person-Interaction Noise Optimization for Long-Duration and Customizable Motion Generation of Arbitrary-Sized Groups, ICCV'25, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1013448731,
+                "language": "Python",
+                "last_commit": "2025-10-14T03:09:34Z",
+                "owner": "sinc865",
+                "repo": "PINO",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Group Interaction"
         },
         {
-          "node_type": "item",
-          "title": "ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation, ICCV'23, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-14T09:06:27Z",
-            "owner": "Szy-Young",
-            "repo": "ActFormer",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "in2IN: Leveraging individual Information to Generate Human INteractions, CVPRW'24, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-29T13:49:13Z",
-            "owner": "pabloruizponce",
-            "repo": "in2IN",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InterMask: 3D Human Interaction Generation via Collaborative Masked Modeling, ICLR'25, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-08T19:44:28Z",
-            "owner": "gohar-malik",
-            "repo": "InterMask",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TIMotion: Temporal and Interactive Framework for Efficient Human-Human Motion Generation, CVPR'25, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-15T09:09:14Z",
-            "owner": "AIGC-Explorer",
-            "repo": "TIMotion",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ponimator: Unfolding Interactive Pose for Versatile Human-human Interaction Animation, ICCV'25, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-10T09:25:34Z",
-            "owner": "stevenlsw",
-            "repo": "ponimator",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Unified Number-Free Text-to-Motion Generation Via Flow Matching, CVPR'26, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-06T10:43:30Z",
-            "owner": "Githubhgh",
-            "repo": "UMF_CVPR",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Diffusion Forcing for Multi-Agent Interaction Sequence Modeling, arXiv'25, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-04T08:22:33Z",
-            "owner": "Von31",
-            "repo": "MAGNet-code",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MixerMDM: Learnable Composition of Human Motion Diffusion Models, CVPR'25, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-01T15:30:18Z",
-            "owner": "pabloruizponce",
-            "repo": "MixerMDM",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InterMoE: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE, AAAI'26, [Paper]",
-          "description": ", [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-06T17:28:44Z",
-            "owner": "Lighten001",
-            "repo": "InterMoE",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ContactGen: Contact-Guided Interactive 3D Human Generation for Partners, AAAI'24, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-11T07:33:16Z",
-            "owner": "dongjunKu",
-            "repo": "ContactGen",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation, CVPR'26, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-19T07:40:13Z",
-            "owner": "boycehbz",
-            "repo": "StaCOM",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling, SIGGRAPH'25, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-01-19T18:55:14Z",
-            "owner": "anindita127",
-            "repo": "DuetGen",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Invisible Strings: Revealing Latent Dancer-to-Dancer Interactions with Graph Neural Networks, ICCC'25, [Paper]",
-          "description": ", [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-09-27T01:25:01Z",
-            "owner": "humanai-foundation",
-            "repo": "ChoreoAI",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation, ICASSP'26, [Paper]",
-          "description": ", [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-29T11:19:12Z",
-            "owner": "iSEE-Laboratory",
-            "repo": "PhysiGen",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Social Structure Matters in 3D Human-Human Interaction Generation, arXiv'26, [Paper]",
-          "description": ", [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-24T10:52:46Z",
-            "owner": "EngineeringAI-LAB",
-            "repo": "SocialStructureHHI",
-            "stars": 3
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, arXiv'24, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 808658595,
+                "language": "Python",
+                "last_commit": "2025-07-01T04:24:28Z",
+                "owner": "leolyliu",
+                "repo": "CORE4D-Instructions",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, arXiv'26, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1212646529,
+                "language": null,
+                "last_commit": "2026-04-16T15:31:25Z",
+                "owner": "yw0208",
+                "repo": "SynAgent",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multi-Human and Objects"
         }
       ],
-      "title": "HHI Generation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Inter-X: Towards Versatile Human-Human Interaction Analysis, CVPR'24, [Paper]",
-          "description": ", [Project], [Code&Data]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-11T06:45:18Z",
-            "owner": "liangxuy",
-            "repo": "Inter-X",
-            "stars": 235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ReGenNet: Towards Human Action-Reaction Synthesis, CVPR'24, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-23T19:58:28Z",
-            "owner": "liangxuy",
-            "repo": "ReGenNet",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, ICLR'25, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-13T12:40:56Z",
-            "owner": "zju3dv",
-            "repo": "ready_to_react",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Role-aware Interaction Generation from Textual Description, ICCV'23, [Paper]",
-          "description": ", [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-20T07:31:20Z",
-            "owner": "line",
-            "repo": "Human-Interaction-Generation",
-            "stars": 34
-          }
-        }
-      ],
-      "title": "Reaction Generation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hi4D: 4D Instance Segmentation of Close Human Interaction, CVPR'23, [Paper]",
-          "description": ", [Project], [Code&Data]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-27T12:59:22Z",
-            "owner": "yifeiyin04",
-            "repo": "Hi4D",
-            "stars": 100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MultiPhys: Multi-Person Physics-aware 3D Motion Estimation, CVPR'24, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-24T21:52:36Z",
-            "owner": "nicolasugrinovic",
-            "repo": "multiphys",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Multi-Person Extreme Motion Prediction, CVPR'22, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-10T13:07:51Z",
-            "owner": "GUO-W",
-            "repo": "MultiMotion",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption, CVPR'24, [Paper]",
-          "description": ", [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-03T07:52:48Z",
-            "owner": "boycehbz",
-            "repo": "HumanInteraction",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Reconstructing Close Human Interactions from Multiple Views, SIGGRAPH Asia'23, [Paper]",
-          "description": ", [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-29T14:33:44Z",
-            "owner": "zju3dv",
-            "repo": "CloseMoCap",
-            "stars": 40
-          }
-        }
-      ],
-      "title": "HHI Reconstruction"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Inter-X: Towards Versatile Human-Human Interaction Analysis, CVPR'24, [Paper]",
-          "description": ", [Project], [Code&Data]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-11T06:45:18Z",
-            "owner": "liangxuy",
-            "repo": "Inter-X",
-            "stars": 235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nonverbal Interaction Detection, ECCV'24, [Paper]",
-          "description": ", [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-30T02:48:28Z",
-            "owner": "weijianan1",
-            "repo": "NVI",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos, CVPR'24, [Paper]",
-          "description": ", [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-21T10:20:58Z",
-            "owner": "MCG-NJU",
-            "repo": "SportsHHI",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "HHI Detection"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Inter-X: Towards Versatile Human-Human Interaction Analysis, CVPR'24, [Paper]",
-          "description": ", [Project], [Code&Data]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-11T06:45:18Z",
-            "owner": "liangxuy",
-            "repo": "Inter-X",
-            "stars": 235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hi4D: 4D Instance Segmentation of Close Human Interaction, CVPR'23, [Paper]",
-          "description": ", [Project], [Code&Data]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-27T12:59:22Z",
-            "owner": "yifeiyin04",
-            "repo": "Hi4D",
-            "stars": 100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation, ICCV'23, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-14T09:06:27Z",
-            "owner": "Szy-Young",
-            "repo": "ActFormer",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Multi-Person Extreme Motion Prediction, CVPR'22, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-10T13:07:51Z",
-            "owner": "GUO-W",
-            "repo": "MultiMotion",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos, CVPR'24, [Paper]",
-          "description": ", [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-21T10:20:58Z",
-            "owner": "MCG-NJU",
-            "repo": "SportsHHI",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HHI-Assist: A Dataset and Benchmark of Human-Human Interaction in Physical Assistance Scenario, RA-L'25, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-30T17:48:42Z",
-            "owner": "vita-epfl",
-            "repo": "HHI-Assist",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "HHI Datasets"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Stochastic Multi-Person 3D Motion Forecasting, ICLR'23, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-01T01:59:00Z",
-            "owner": "Sirui-Xu",
-            "repo": "DuMMF",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Joint-Relation Transformer for Multi-Person Motion Prediction, ICCV'23, [Paper]",
-          "description": ", [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-20T13:53:05Z",
-            "owner": "MediaBrain-SJTU",
-            "repo": "JRTransformer",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Multi-Person Interaction Generation from Two-Person Motion Priors, SIGGRAPH'25, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-12T16:02:18Z",
-            "owner": "wenningxu",
-            "repo": "multi-person-interaction",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PINO: Person-Interaction Noise Optimization for Long-Duration and Customizable Motion Generation of Arbitrary-Sized Groups, ICCV'25, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-14T03:09:34Z",
-            "owner": "sinc865",
-            "repo": "PINO",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Group Interaction"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, arXiv'24, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-01T04:24:28Z",
-            "owner": "leolyliu",
-            "repo": "CORE4D-Instructions",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, arXiv'26, [Paper]",
-          "description": ", [Project], [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-16T15:31:25Z",
-            "owner": "yw0208",
-            "repo": "SynAgent",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Multi-Human and Objects"
+      "title": "Recent Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:25:14.917Z",
+    "last_updated": "2026-08-19T12:31:53.918Z",
     "original_repository": "liangxuy/awesome-human-human-interaction",
+    "original_repository_id": 791195945,
     "original_repository_sha": "89a087ca1340889122d41fb0cbf07b05dbb627ca",
     "enhanced_repository": "enhansome/enhansome-human-human-interaction",
     "enhanced_repository_description": null,

@@ -40,9 +40,9 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Generation
 
-* Neural Animation Layering for Synthesizing Martial Arts Movements, *SIGGRAPH'21*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf) ⭐ 8,840 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
+* Neural Animation Layering for Synthesizing Martial Arts Movements, *SIGGRAPH'21*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf) ⭐ 8,843 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
 
-* Local Motion Phases for Learning Multi-Contact Character Movements, *SIGGRAPH'20*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf) ⭐ 8,840 | 🐛 36 | 🌐 C++ | 📅 2026-04-17, [\[Code\]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020) ⭐ 8,840 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
+* Local Motion Phases for Learning Multi-Contact Character Movements, *SIGGRAPH'20*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf) ⭐ 8,843 | 🐛 36 | 🌐 C++ | 📅 2026-04-17, [\[Code\]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020) ⭐ 8,843 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
 
 * Human Motion Diffusion as a Generative Prior, *ICLR'24*, [\[Paper\]](https://arxiv.org/abs/2303.01418), [\[Project\]](https://priormdm.github.io/priorMDM-page/), [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 525 | 🐛 6 | 🌐 Python | 📅 2026-04-21
 
@@ -180,9 +180,9 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * MultiPhys: Multi-Person Physics-aware 3D Motion Estimation, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2404.11987), [\[Project\]](http://www.iri.upc.edu/people/nugrinovic/multiphys/), [\[Code\]](https://github.com/nicolasugrinovic/multiphys) ⭐ 84 | 🐛 3 | 🌐 Python | 📅 2025-03-24
 
-* Multi-Person Extreme Motion Prediction, *CVPR'22*, [\[Paper\]](https://arxiv.org/abs/2105.08825), [\[Project\]](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction/), [\[Code\]](https://github.com/GUO-W/MultiMotion) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2022-03-10
+* Multi-Person Extreme Motion Prediction, *CVPR'22*, [\[Paper\]](https://arxiv.org/abs/2105.08825), [\[Project\]](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction/), [\[Code\]](https://github.com/GUO-W/MultiMotion) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2022-03-10
 
-* Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2404.11291), [\[Code\]](https://github.com/boycehbz/HumanInteraction) ⭐ 44 | 🐛 6 | 🌐 Python | 📅 2025-08-03
+* Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2404.11291), [\[Code\]](https://github.com/boycehbz/HumanInteraction) ⭐ 45 | 🐛 6 | 🌐 Python | 📅 2025-08-03
 
 * Reconstructing Close Human Interactions from Multiple Views, *SIGGRAPH Asia'23*, [\[Paper\]](https://arxiv.org/abs/2401.16173), [\[Code\]](https://github.com/zju3dv/CloseMoCap) ⭐ 40 | 🐛 3 | 📅 2024-01-29
 
@@ -220,7 +220,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation, *ICCV'23*, [\[Paper\]](https://arxiv.org/abs/2203.07706), [\[Project\]](https://liangxuy.github.io/actformer/), [\[Code\]](https://github.com/Szy-Young/actformer) ⭐ 67 | 🐛 3 | 🌐 Python | 📅 2024-05-14
 
-* Multi-Person Extreme Motion Prediction, *CVPR'22*, [\[Paper\]](https://arxiv.org/abs/2105.08825), [\[Project\]](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction/), [\[Code\]](https://github.com/GUO-W/MultiMotion) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2022-03-10
+* Multi-Person Extreme Motion Prediction, *CVPR'22*, [\[Paper\]](https://arxiv.org/abs/2105.08825), [\[Project\]](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction/), [\[Code\]](https://github.com/GUO-W/MultiMotion) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2022-03-10
 
 * SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2404.04565), [\[Code\]](https://github.com/MCG-NJU/SportsHHI) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2024-05-21
 
@@ -244,7 +244,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * Multi-Person Interaction Generation from Two-Person Motion Priors, *SIGGRAPH'25*, [\[Paper\]](https://arxiv.org/abs/2505.17860), [\[Project\]](https://wenningxu.github.io/multicharacter/), [\[Code\]](https://github.com/wenningxu/multi-person-interaction) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-02-12
 
-* PINO: Person-Interaction Noise Optimization for Long-Duration and Customizable Motion Generation of Arbitrary-Sized Groups, *ICCV'25*, [\[Paper\]](https://arxiv.org/abs/2507.19292), [\[Project\]](https://sinc865.github.io/pino/), [\[Code\]](https://github.com/sinc865/PINO) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2025-10-14
+* PINO: Person-Interaction Noise Optimization for Long-Duration and Customizable Motion Generation of Arbitrary-Sized Groups, *ICCV'25*, [\[Paper\]](https://arxiv.org/abs/2507.19292), [\[Project\]](https://sinc865.github.io/pino/), [\[Code\]](https://github.com/sinc865/PINO) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2025-10-14
 
 * Unified Number-Free Text-to-Motion Generation Via Flow Matching, *CVPR'26*, [\[Paper\]](https://arxiv.org/abs/2603.27040), [\[Project\]](https://githubhgh.github.io/umf/)
 
@@ -284,4 +284,4 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
