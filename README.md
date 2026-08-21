@@ -260,7 +260,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, *arXiv'24*, [\[Paper\]](https://arxiv.org/abs/2406.19353), [\[Project\]](https://core4d.github.io/), [\[Code\]](https://github.com/leolyliu/CORE4D-Instructions) ⭐ 122 | 🐛 5 | 🌐 Python | 📅 2025-07-01
 
-* SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, *arXiv'26*, [\[Paper\]](https://arxiv.org/abs/2604.18557v2), [\[Project\]](https://yw0208.github.io/synagent/), [\[Code\]](https://github.com/yw0208/SynAgent) ⭐ 4 | 🐛 1 | 📅 2026-04-16
+* SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, *arXiv'26*, [\[Paper\]](https://arxiv.org/abs/2604.18557v2), [\[Project\]](https://yw0208.github.io/synagent/), [\[Code\]](https://github.com/yw0208/SynAgent) ⭐ 5 | 🐛 1 | 📅 2026-04-16
 
 * Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions, *ICCV'25*, [\[Paper\]](https://arxiv.org/abs/2508.04681), [\[Project\]](https://liangxuy.github.io/InterVLA/)
 
@@ -284,4 +284,4 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
