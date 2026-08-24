@@ -258,7 +258,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### Multi-Human and Objects
 
-* CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, *arXiv'24*, [\[Paper\]](https://arxiv.org/abs/2406.19353), [\[Project\]](https://core4d.github.io/), [\[Code\]](https://github.com/leolyliu/CORE4D-Instructions) ⭐ 122 | 🐛 5 | 🌐 Python | 📅 2025-07-01
+* CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, *arXiv'24*, [\[Paper\]](https://arxiv.org/abs/2406.19353), [\[Project\]](https://core4d.github.io/), [\[Code\]](https://github.com/leolyliu/CORE4D-Instructions) ⭐ 123 | 🐛 5 | 🌐 Python | 📅 2025-07-01
 
 * SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, *arXiv'26*, [\[Paper\]](https://arxiv.org/abs/2604.18557v2), [\[Project\]](https://yw0208.github.io/synagent/), [\[Code\]](https://github.com/yw0208/SynAgent) ⭐ 5 | 🐛 1 | 📅 2026-04-16
 
@@ -268,20 +268,20 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### Interactive Humanoid
 
+* It Takes Two: Learning Interactive Whole-Body Control Between Humanoid Robots, *arXiv'25*, [\[Paper\]](https://arxiv.org/abs/2510.10206), [\[Code\]](https://github.com/ZuhongLIU/Harmanoid) ⭐ 13 | 🐛 1 | 📅 2025-10-11
+
 * Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations, *arXiv'26*, [\[Paper\]](https://arxiv.org/abs/2601.09518)
 
 * SymBridge: A Human-in-the-Loop Cyber-Physical Interactive System for Adaptive Human-Robot Symbiosis, *arXiv'25*, [\[Paper\]](https://arxiv.org/abs/2502.07358)
 
-* It Takes Two: Learning Interactive Whole-Body Control Between Humanoid Robots, *arXiv'25*, [\[Paper\]](https://arxiv.org/abs/2510.10206), [\[Code\]](https://github.com/ZuhongLIU/Harmanoid) ⭐ 13 | 🐛 1 | 📅 2025-10-11
-
 ### Other Applications
+
+* InterEdit: Navigating Text-Guided 3D Dyadic Human Motion Editing, *ECCV'26*, [\[Paper\]](https://arxiv.org/abs/2603.13082), [\[Code\]](https://github.com/YNG916/InterEdit) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-04-17
 
 * HelloWorld: Enabling Socially Interactive Characters in Video World Models, *arXiv'26*, [\[Paper\]](https://arxiv.org/abs/2608.05070)
 
 * SocialDirector: Training-Free Social Interaction Control for Multi-Person Video Generation, *arXiv'26*, [\[Paper\]](https://arxiv.org/abs/2605.10079)
 
-* InterEdit: Navigating Text-Guided 3D Dyadic Human Motion Editing, *ECCV'26*, [\[Paper\]](https://arxiv.org/abs/2603.13082), [\[Code\]](https://github.com/YNG916/InterEdit) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-04-17
-
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

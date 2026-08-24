@@ -704,7 +704,7 @@
                 "last_commit": "2025-07-01T04:24:28Z",
                 "owner": "leolyliu",
                 "repo": "CORE4D-Instructions",
-                "stars": 122
+                "stars": 123
               }
             },
             {
@@ -726,13 +726,57 @@
           "description": null,
           "node_type": "group",
           "title": "Multi-Human and Objects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "It Takes Two: Learning Interactive Whole-Body Control Between Humanoid Robots, arXiv'25, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1074007265,
+                "language": null,
+                "last_commit": "2025-10-11T11:11:27Z",
+                "owner": "ZuhongLIU",
+                "repo": "Harmanoid",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interactive Humanoid"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "InterEdit: Navigating Text-Guided 3D Dyadic Human Motion Editing, ECCV'26, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1171082448,
+                "language": "Python",
+                "last_commit": "2026-04-17T20:38:37Z",
+                "owner": "YNG916",
+                "repo": "InterEdit",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Applications"
         }
       ],
       "title": "Recent Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:15:51.703Z",
+    "last_updated": "2026-08-24T14:40:15.120Z",
     "original_repository": "liangxuy/awesome-human-human-interaction",
     "original_repository_id": 791195945,
     "original_repository_sha": "89a087ca1340889122d41fb0cbf07b05dbb627ca",
