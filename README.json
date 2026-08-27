@@ -451,7 +451,7 @@
                 "last_commit": "2025-08-03T07:52:48Z",
                 "owner": "boycehbz",
                 "repo": "HumanInteraction",
-                "stars": 45
+                "stars": 46
               }
             },
             {
@@ -776,9 +776,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:37:16.575Z",
-    "original_repository": "liangxuy/awesome-human-human-interaction",
-    "original_repository_id": 791195945,
+    "last_updated": "2026-08-27T11:43:02.617Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 791195945,
+      "language": null,
+      "last_commit": "2026-08-10T14:38:27Z",
+      "owner": "liangxuy",
+      "repo": "awesome-human-human-interaction",
+      "stars": 107
+    },
     "original_repository_sha": "89a087ca1340889122d41fb0cbf07b05dbb627ca",
     "enhanced_repository": "enhansome/enhansome-human-human-interaction",
     "enhanced_repository_description": null,

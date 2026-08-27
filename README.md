@@ -182,7 +182,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * Multi-Person Extreme Motion Prediction, *CVPR'22*, [\[Paper\]](https://arxiv.org/abs/2105.08825), [\[Project\]](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction/), [\[Code\]](https://github.com/GUO-W/MultiMotion) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2022-03-10
 
-* Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2404.11291), [\[Code\]](https://github.com/boycehbz/HumanInteraction) ⭐ 45 | 🐛 6 | 🌐 Python | 📅 2025-08-03
+* Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2404.11291), [\[Code\]](https://github.com/boycehbz/HumanInteraction) ⭐ 46 | 🐛 6 | 🌐 Python | 📅 2025-08-03
 
 * Reconstructing Close Human Interactions from Multiple Views, *SIGGRAPH Asia'23*, [\[Paper\]](https://arxiv.org/abs/2401.16173), [\[Code\]](https://github.com/zju3dv/CloseMoCap) ⭐ 40 | 🐛 3 | 📅 2024-01-29
 
@@ -284,4 +284,4 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
