@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bringing Characters to Life with Computer Brains in Unity",
+                "homepage": null,
                 "id": 98470332,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-04-17T17:03:39Z",
+                "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8847
+                "stars": 8847,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bringing Characters to Life with Computer Brains in Unity",
+                "homepage": null,
                 "id": 98470332,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-04-17T17:03:39Z",
+                "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8847
+                "stars": 8847,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of the paper \"Human Motion Diffusion as a Generative Prior\"",
+                "homepage": null,
                 "id": 608261664,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-21T00:27:45Z",
+                "open_issues": 6,
                 "owner": "priorMDM",
                 "repo": "priorMDM",
-                "stars": 525
+                "stars": 525,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -60,12 +75,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Official implementation of the paper \"Towards Versatile Human-Human Interaction Analysis\"",
+                "homepage": "https://liangxuy.github.io/inter-x/",
                 "id": 735810008,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-11T06:45:18Z",
+                "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 237
+                "stars": 237,
+                "topics": [
+                  "cvpr2024",
+                  "dataset-and-benchmark",
+                  "human-human-interaction",
+                  "human-interaction-generation",
+                  "human-motion-generation",
+                  "reaction-generation",
+                  "text-motion-dataset",
+                  "whole-body"
+                ]
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -76,12 +105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for ICLR 2024 paper \"Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment\"",
+                "homepage": null,
                 "id": 777667978,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-28T03:29:05Z",
+                "open_issues": 5,
                 "owner": "lisiyao21",
                 "repo": "Duolando",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -92,12 +126,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2024] Official implementation of InterControl",
+                "homepage": null,
                 "id": 723958373,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-20T09:40:35Z",
+                "open_issues": 2,
                 "owner": "zhenzhiwang",
                 "repo": "intercontrol",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "human-motion-generation"
+                ]
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -108,12 +149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥ActFormer in PyTorch (ICCV 2023)",
+                "homepage": null,
                 "id": 668313507,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-14T09:06:27Z",
+                "open_issues": 3,
                 "owner": "Szy-Young",
                 "repo": "ActFormer",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -124,12 +170,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPRW 2024] Official Implementation of \"in2IN: Leveraging individual Information to Generate Human INteractions\".",
+                "homepage": "https://pabloruizponce.github.io/in2IN/",
                 "id": 787072793,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-29T13:49:13Z",
+                "open_issues": 2,
                 "owner": "pabloruizponce",
                 "repo": "in2IN",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "cvpr",
+                  "cvpr-workshop",
+                  "cvpr2024",
+                  "diffusion",
+                  "generative-model",
+                  "human-interaction",
+                  "human-motion",
+                  "motion-composition",
+                  "motion-generation",
+                  "motion-interaction"
+                ]
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -140,12 +202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 870908117,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-08T19:44:28Z",
+                "open_issues": 0,
                 "owner": "gohar-malik",
                 "repo": "InterMask",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -156,12 +223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 849334382,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-15T09:09:14Z",
+                "open_issues": 0,
                 "owner": "AIGC-Explorer",
                 "repo": "TIMotion",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -172,12 +244,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ponimator: Unfolding Interactive Pose for Versatile Human-human Interaction Animation (ICCV 2025)",
+                "homepage": "https://github.com/stevenlsw/ponimator",
                 "id": 1030612830,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-10T09:25:34Z",
+                "open_issues": 2,
                 "owner": "stevenlsw",
                 "repo": "ponimator",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "human-human-interaction",
+                  "human-motion-forecasting",
+                  "human-motion-generation",
+                  "iccv2025",
+                  "image-animation",
+                  "motion-generation",
+                  "text-to-motion"
+                ]
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -188,12 +273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code Implementation for \"Unified Number-Free Text-to-Motion Generation Via Flow Matching\" (CVPR26)",
+                "homepage": null,
                 "id": 1189131010,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-06T10:43:30Z",
+                "open_issues": 3,
                 "owner": "Githubhgh",
                 "repo": "UMF_CVPR",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -204,12 +294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1183759831,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-04T08:22:33Z",
+                "open_issues": 1,
                 "owner": "Von31",
                 "repo": "MAGNet-code",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -220,12 +315,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025] Official Implementation of \"MixerMDM: Learnable Composition of Human Motion Diffusion Models\".",
+                "homepage": "https://www.pabloruizponce.com/papers/MixerMDM",
                 "id": 958691556,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-01T15:30:18Z",
+                "open_issues": 2,
                 "owner": "pabloruizponce",
                 "repo": "MixerMDM",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "cvpr",
+                  "cvpr2025",
+                  "diffusion-models",
+                  "human-human-interaction",
+                  "human-motion-generation"
+                ]
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -236,12 +342,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation for InterMoE.",
+                "homepage": null,
                 "id": 1096398186,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-06T17:28:44Z",
+                "open_issues": 2,
                 "owner": "Lighten001",
                 "repo": "InterMoE",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "diffusion-models",
+                  "interaction",
+                  "moe",
+                  "motion-generation"
+                ]
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -252,12 +368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ContactGen: Contact-Guided Interactive 3D Human Generation for Partners (AAAI 2024)",
+                "homepage": null,
                 "id": 658590159,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-11T07:33:16Z",
+                "open_issues": 1,
                 "owner": "dongjunKu",
                 "repo": "ContactGen",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -268,12 +389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1191215559,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-19T07:40:13Z",
+                "open_issues": 2,
                 "owner": "boycehbz",
                 "repo": "StaCOM",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -284,12 +410,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling",
+                "homepage": "https://anindita127.github.io/DuetGen/",
                 "id": 1007162920,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-01-19T18:55:14Z",
+                "open_issues": 2,
                 "owner": "anindita127",
                 "repo": "DuetGen",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "animation",
+                  "dance-synthesis",
+                  "two-person"
+                ]
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -300,12 +435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 831747722,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-09-27T01:25:01Z",
+                "open_issues": 5,
                 "owner": "humanai-foundation",
                 "repo": "ChoreoAI",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -316,12 +456,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation",
+                "homepage": null,
                 "id": 1223075579,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-29T11:19:12Z",
+                "open_issues": 1,
                 "owner": "iSEE-Laboratory",
                 "repo": "PhysiGen",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -332,12 +477,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for Social Structure Matters in 3D Human-Human Interaction Generation",
+                "homepage": null,
                 "id": 1277787567,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-24T10:52:46Z",
+                "open_issues": 0,
                 "owner": "EngineeringAI-LAB",
                 "repo": "SocialStructureHHI",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "3d",
+                  "human-human-interaction",
+                  "human-motion-generation",
+                  "interaction",
+                  "text-driven"
+                ]
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             }
@@ -355,12 +511,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Official implementation of the paper \"Towards Versatile Human-Human Interaction Analysis\"",
+                "homepage": "https://liangxuy.github.io/inter-x/",
                 "id": 735810008,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-11T06:45:18Z",
+                "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 237
+                "stars": 237,
+                "topics": [
+                  "cvpr2024",
+                  "dataset-and-benchmark",
+                  "human-human-interaction",
+                  "human-interaction-generation",
+                  "human-motion-generation",
+                  "reaction-generation",
+                  "text-motion-dataset",
+                  "whole-body"
+                ]
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -371,12 +541,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Official implementation of the paper \"ReGenNet: Towards Human Action-Reaction Synthesis\"",
+                "homepage": null,
                 "id": 770930924,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-23T19:58:28Z",
+                "open_issues": 3,
                 "owner": "liangxuy",
                 "repo": "ReGenNet",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "cvpr2024",
+                  "diffusion-models",
+                  "human-human-interaction",
+                  "human-motion-generation",
+                  "human-reaction-generation",
+                  "interaction-order"
+                ]
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -387,12 +569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation",
+                "homepage": "https://zju3dv.github.io/ready_to_react/",
                 "id": 932640365,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-13T12:40:56Z",
+                "open_issues": 0,
                 "owner": "zju3dv",
                 "repo": "ready_to_react",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -403,12 +590,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of ICCV 2023 Oral Paper \"Role-Aware Interaction Generation from Textual Description\"",
+                "homepage": "https://openaccess.thecvf.com/content/ICCV2023/html/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper.html",
                 "id": 707533563,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-20T07:31:20Z",
+                "open_issues": 0,
                 "owner": "line",
                 "repo": "Human-Interaction-Generation",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "computervision",
+                  "motion-generation"
+                ]
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             }
@@ -426,12 +621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hi4D: 4D Instance Segmentation of Close Human Interaction (CVPR2023)",
+                "homepage": "https://yifeiyin04.github.io/Hi4D/",
                 "id": 608561840,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-27T12:59:22Z",
+                "open_issues": 1,
                 "owner": "yifeiyin04",
                 "repo": "Hi4D",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -442,12 +642,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper MultiPhys: Multi-Person Physics-aware 3D Motion Estimation (CVPR 2024)",
+                "homepage": "http://www.iri.upc.edu/people/nugrinovic/multiphys/",
                 "id": 787081438,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-24T21:52:36Z",
+                "open_issues": 3,
                 "owner": "nicolasugrinovic",
                 "repo": "multiphys",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -458,12 +663,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Person Extreme Motion Prediction",
+                "homepage": null,
                 "id": 435884925,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-10T13:07:51Z",
+                "open_issues": 0,
                 "owner": "GUO-W",
                 "repo": "MultiMotion",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -474,12 +684,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code for CVPR 2024 paper \"Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption\"",
+                "homepage": null,
                 "id": 778128920,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-03T07:52:48Z",
+                "open_issues": 6,
                 "owner": "boycehbz",
                 "repo": "HumanInteraction",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -490,12 +705,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"Reconstructing Close Human Interaction from Multiple Views\"",
+                "homepage": null,
                 "id": 691405607,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-29T14:33:44Z",
+                "open_issues": 3,
                 "owner": "zju3dv",
                 "repo": "CloseMoCap",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             }
@@ -513,12 +733,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Official implementation of the paper \"Towards Versatile Human-Human Interaction Analysis\"",
+                "homepage": "https://liangxuy.github.io/inter-x/",
                 "id": 735810008,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-11T06:45:18Z",
+                "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 237
+                "stars": 237,
+                "topics": [
+                  "cvpr2024",
+                  "dataset-and-benchmark",
+                  "human-human-interaction",
+                  "human-interaction-generation",
+                  "human-motion-generation",
+                  "reaction-generation",
+                  "text-motion-dataset",
+                  "whole-body"
+                ]
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -529,12 +763,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV2024] Nonverbal Interaction Detection",
+                "homepage": null,
                 "id": 824095051,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-30T02:48:28Z",
+                "open_issues": 2,
                 "owner": "weijianan1",
                 "repo": "NVI",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -545,12 +784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos",
+                "homepage": null,
                 "id": 779270352,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-21T10:20:58Z",
+                "open_issues": 2,
                 "owner": "MCG-NJU",
                 "repo": "SportsHHI",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             }
@@ -568,12 +812,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Official implementation of the paper \"Towards Versatile Human-Human Interaction Analysis\"",
+                "homepage": "https://liangxuy.github.io/inter-x/",
                 "id": 735810008,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-11T06:45:18Z",
+                "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 237
+                "stars": 237,
+                "topics": [
+                  "cvpr2024",
+                  "dataset-and-benchmark",
+                  "human-human-interaction",
+                  "human-interaction-generation",
+                  "human-motion-generation",
+                  "reaction-generation",
+                  "text-motion-dataset",
+                  "whole-body"
+                ]
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -584,12 +842,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hi4D: 4D Instance Segmentation of Close Human Interaction (CVPR2023)",
+                "homepage": "https://yifeiyin04.github.io/Hi4D/",
                 "id": 608561840,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-27T12:59:22Z",
+                "open_issues": 1,
                 "owner": "yifeiyin04",
                 "repo": "Hi4D",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -600,12 +863,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥ActFormer in PyTorch (ICCV 2023)",
+                "homepage": null,
                 "id": 668313507,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-14T09:06:27Z",
+                "open_issues": 3,
                 "owner": "Szy-Young",
                 "repo": "ActFormer",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -616,12 +884,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Person Extreme Motion Prediction",
+                "homepage": null,
                 "id": 435884925,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-10T13:07:51Z",
+                "open_issues": 0,
                 "owner": "GUO-W",
                 "repo": "MultiMotion",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -632,12 +905,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos",
+                "homepage": null,
                 "id": 779270352,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-21T10:20:58Z",
+                "open_issues": 2,
                 "owner": "MCG-NJU",
                 "repo": "SportsHHI",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -648,12 +926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 848900287,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-30T17:48:42Z",
+                "open_issues": 0,
                 "owner": "vita-epfl",
                 "repo": "HHI-Assist",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             }
@@ -671,12 +954,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2023 spotlight] Official PyTorch implementation of the paper \"Stochastic Multi-Person 3D Motion Forecasting\"",
+                "homepage": null,
                 "id": 608446984,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-01T01:59:00Z",
+                "open_issues": 3,
                 "owner": "Sirui-Xu",
                 "repo": "DuMMF",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -687,12 +975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV2023] Joint-Relation Transformer for Multi-Person Motion Prediction",
+                "homepage": null,
                 "id": 672714459,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-20T13:53:05Z",
+                "open_issues": 3,
                 "owner": "MediaBrain-SJTU",
                 "repo": "JRTransformer",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -703,12 +996,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository of paper \"Multi-Person Interaction Generation from Two-Person Motion Priors\" (SIGGRAPH2025 Conference)",
+                "homepage": "https://wenningxu.github.io/multicharacter/",
                 "id": 1025825867,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-12T16:02:18Z",
+                "open_issues": 0,
                 "owner": "wenningxu",
                 "repo": "multi-person-interaction",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -719,12 +1017,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://sinc865.github.io/pino/",
                 "id": 1013448731,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-14T03:09:34Z",
+                "open_issues": 2,
                 "owner": "sinc865",
                 "repo": "PINO",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             }
@@ -742,12 +1045,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository of \"CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement\".",
+                "homepage": null,
                 "id": 808658595,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-01T04:24:28Z",
+                "open_issues": 5,
                 "owner": "leolyliu",
                 "repo": "CORE4D-Instructions",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -758,12 +1066,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code: SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy",
+                "homepage": null,
                 "id": 1212646529,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-16T15:31:25Z",
+                "open_issues": 1,
                 "owner": "yw0208",
                 "repo": "SynAgent",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             }
@@ -781,12 +1094,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1074007265,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-10-11T11:11:27Z",
+                "open_issues": 1,
                 "owner": "ZuhongLIU",
                 "repo": "Harmanoid",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             }
@@ -804,12 +1122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing",
+                "homepage": null,
                 "id": 1171082448,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-17T20:38:37Z",
+                "open_issues": 1,
                 "owner": "YNG916",
                 "repo": "InterEdit",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             }
@@ -823,15 +1146,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:21:13.069Z",
+    "last_updated": "2026-08-29T04:58:49.924Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome human-human interaction resources.",
+      "homepage": null,
       "id": 791195945,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-28T05:12:10Z",
+      "open_issues": 0,
       "owner": "liangxuy",
       "repo": "awesome-human-human-interaction",
-      "stars": 107
+      "stars": 107,
+      "topics": [
+        "awesome-list",
+        "group-motion",
+        "hhi",
+        "hhi-detection",
+        "hhi-generation",
+        "hhi-reconstruction",
+        "human-human-interaction",
+        "human-robot-interaction",
+        "reaction-generation"
+      ]
     },
     "original_repository_sha": "bd87eef3b4acd3f37935b0204f5b45c999fbb681",
     "enhanced_repository": "enhansome/enhansome-human-human-interaction",
