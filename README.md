@@ -40,9 +40,9 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Generation
 
-* Neural Animation Layering for Synthesizing Martial Arts Movements, *SIGGRAPH'21*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf) ⭐ 8,849 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
+* Neural Animation Layering for Synthesizing Martial Arts Movements, *SIGGRAPH'21*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf) ⭐ 8,848 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
 
-* Local Motion Phases for Learning Multi-Contact Character Movements, *SIGGRAPH'20*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf) ⭐ 8,849 | 🐛 36 | 🌐 C++ | 📅 2026-04-17, [\[Code\]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020) ⭐ 8,849 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
+* Local Motion Phases for Learning Multi-Contact Character Movements, *SIGGRAPH'20*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf) ⭐ 8,848 | 🐛 36 | 🌐 C++ | 📅 2026-04-17, [\[Code\]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020) ⭐ 8,848 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
 
 * Human Motion Diffusion as a Generative Prior, *ICLR'24*, [\[Paper\]](https://arxiv.org/abs/2303.01418), [\[Project\]](https://priormdm.github.io/priorMDM-page/), [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 525 | 🐛 6 | 🌐 Python | 📅 2026-04-21
 
@@ -260,7 +260,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### Multi-Human and Objects
 
-* CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, *arXiv'24*, [\[Paper\]](https://arxiv.org/abs/2406.19353), [\[Project\]](https://core4d.github.io/), [\[Code\]](https://github.com/leolyliu/CORE4D-Instructions) ⭐ 123 | 🐛 5 | 🌐 Python | 📅 2025-07-01
+* CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, *arXiv'24*, [\[Paper\]](https://arxiv.org/abs/2406.19353), [\[Project\]](https://core4d.github.io/), [\[Code\]](https://github.com/leolyliu/CORE4D-Instructions) ⭐ 123 | 🐛 7 | 🌐 Python | 📅 2025-07-01
 
 * SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, *arXiv'26*, [\[Paper\]](https://arxiv.org/abs/2604.18557v2), [\[Project\]](https://yw0208.github.io/synagent/), [\[Code\]](https://github.com/yw0208/SynAgent) ⭐ 5 | 🐛 1 | 📅 2026-04-16
 
@@ -286,4 +286,4 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
