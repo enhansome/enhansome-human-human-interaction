@@ -282,7 +282,7 @@
                 "open_issues": 3,
                 "owner": "Githubhgh",
                 "repo": "UMF_CVPR",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1026,7 +1026,7 @@
                 "open_issues": 2,
                 "owner": "sinc865",
                 "repo": "PINO",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:46:39.800Z",
+    "last_updated": "2026-09-01T17:31:15.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",

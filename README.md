@@ -62,7 +62,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * Ponimator: Unfolding Interactive Pose for Versatile Human-human Interaction Animation, *ICCV'25*, [\[Paper\]](https://arxiv.org/abs/2510.14976), [\[Project\]](https://stevenlsw.github.io/ponimator/), [\[Code\]](https://github.com/stevenlsw/ponimator) ⭐ 40 | 🐛 2 | 🌐 Python | 📅 2025-12-10
 
-* Unified Number-Free Text-to-Motion Generation Via Flow Matching, *CVPR'26*, [\[Paper\]](https://arxiv.org/abs/2603.27040), [\[Project\]](https://githubhgh.github.io/umf/), [\[Code\]](https://github.com/Githubhgh/UMF_CVPR/tree/main) ⭐ 35 | 🐛 3 | 🌐 Python | 📅 2026-06-06
+* Unified Number-Free Text-to-Motion Generation Via Flow Matching, *CVPR'26*, [\[Paper\]](https://arxiv.org/abs/2603.27040), [\[Project\]](https://githubhgh.github.io/umf/), [\[Code\]](https://github.com/Githubhgh/UMF_CVPR/tree/main) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2026-06-06
 
 * Diffusion Forcing for Multi-Agent Interaction Sequence Modeling, *arXiv'25*, [\[Paper\]](https://arxiv.org/abs/2512.17900), [\[Project\]](https://von31.github.io/MAGNet/), [\[Code\]](https://github.com/Von31/MAGNet-code) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2026-05-04
 
@@ -246,7 +246,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * Multi-Person Interaction Generation from Two-Person Motion Priors, *SIGGRAPH'25*, [\[Paper\]](https://arxiv.org/abs/2505.17860), [\[Project\]](https://wenningxu.github.io/multicharacter/), [\[Code\]](https://github.com/wenningxu/multi-person-interaction) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-02-12
 
-* PINO: Person-Interaction Noise Optimization for Long-Duration and Customizable Motion Generation of Arbitrary-Sized Groups, *ICCV'25*, [\[Paper\]](https://arxiv.org/abs/2507.19292), [\[Project\]](https://sinc865.github.io/pino/), [\[Code\]](https://github.com/sinc865/PINO) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2025-10-14
+* PINO: Person-Interaction Noise Optimization for Long-Duration and Customizable Motion Generation of Arbitrary-Sized Groups, *ICCV'25*, [\[Paper\]](https://arxiv.org/abs/2507.19292), [\[Project\]](https://sinc865.github.io/pino/), [\[Code\]](https://github.com/sinc865/PINO) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2025-10-14
 
 * Unified Number-Free Text-to-Motion Generation Via Flow Matching, *CVPR'26*, [\[Paper\]](https://arxiv.org/abs/2603.27040), [\[Project\]](https://githubhgh.github.io/umf/)
 
@@ -286,4 +286,4 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
