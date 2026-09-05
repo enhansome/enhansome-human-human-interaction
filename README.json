@@ -1051,7 +1051,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-07-01T04:24:28Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "leolyliu",
                 "repo": "CORE4D-Instructions",
                 "stars": 124,
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:18:40.890Z",
+    "last_updated": "2026-09-05T16:26:09.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
