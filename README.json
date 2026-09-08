@@ -21,7 +21,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8853,
+                "stars": 8854,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -42,7 +42,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8853,
+                "stars": 8854,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -84,7 +84,7 @@
                 "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 237,
+                "stars": 238,
                 "topics": [
                   "cvpr2024",
                   "dataset-and-benchmark",
@@ -520,7 +520,7 @@
                 "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 237,
+                "stars": 238,
                 "topics": [
                   "cvpr2024",
                   "dataset-and-benchmark",
@@ -742,7 +742,7 @@
                 "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 237,
+                "stars": 238,
                 "topics": [
                   "cvpr2024",
                   "dataset-and-benchmark",
@@ -821,7 +821,7 @@
                 "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 237,
+                "stars": 238,
                 "topics": [
                   "cvpr2024",
                   "dataset-and-benchmark",
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:31:25.049Z",
+    "last_updated": "2026-09-08T17:41:15.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
