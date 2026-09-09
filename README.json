@@ -21,7 +21,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8854,
+                "stars": 8855,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -42,7 +42,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8854,
+                "stars": 8855,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -114,7 +114,7 @@
                 "open_issues": 5,
                 "owner": "lisiyao21",
                 "repo": "Duolando",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -135,7 +135,7 @@
                 "open_issues": 2,
                 "owner": "zhenzhiwang",
                 "repo": "intercontrol",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "human-motion-generation"
                 ]
@@ -1005,7 +1005,7 @@
                 "open_issues": 0,
                 "owner": "wenningxu",
                 "repo": "multi-person-interaction",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:41:15.705Z",
+    "last_updated": "2026-09-09T17:27:20.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
