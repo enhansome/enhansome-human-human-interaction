@@ -21,7 +21,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8855,
+                "stars": 8857,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -42,7 +42,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8855,
+                "stars": 8857,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -451,6 +451,33 @@
             },
             {
               "node_type": "item",
+              "title": "Social Structure Matters in 3D Human-Human Interaction Generation, arXiv'26, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repository for Social Structure Matters in 3D Human-Human Interaction Generation",
+                "homepage": null,
+                "id": 1277787567,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-06-24T10:52:46Z",
+                "open_issues": 0,
+                "owner": "EngineeringAI-LAB",
+                "repo": "SocialStructureHHI",
+                "stars": 4,
+                "topics": [
+                  "3d",
+                  "human-human-interaction",
+                  "human-motion-generation",
+                  "interaction",
+                  "text-driven"
+                ]
+              },
+              "first_seen": "2026-08-28T23:21:13.069Z"
+            },
+            {
+              "node_type": "item",
               "title": "PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation, ICASSP'26, [Paper]",
               "description": ", [Code]",
               "children": [],
@@ -467,33 +494,6 @@
                 "repo": "PhysiGen",
                 "stars": 4,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T23:21:13.069Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Social Structure Matters in 3D Human-Human Interaction Generation, arXiv'26, [Paper]",
-              "description": ", [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official repository for Social Structure Matters in 3D Human-Human Interaction Generation",
-                "homepage": null,
-                "id": 1277787567,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-06-24T10:52:46Z",
-                "open_issues": 0,
-                "owner": "EngineeringAI-LAB",
-                "repo": "SocialStructureHHI",
-                "stars": 3,
-                "topics": [
-                  "3d",
-                  "human-human-interaction",
-                  "human-motion-generation",
-                  "interaction",
-                  "text-driven"
-                ]
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             }
@@ -1051,7 +1051,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-07-01T04:24:28Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "leolyliu",
                 "repo": "CORE4D-Instructions",
                 "stars": 124,
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:27:20.150Z",
+    "last_updated": "2026-09-10T17:25:24.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",

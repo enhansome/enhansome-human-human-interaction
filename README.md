@@ -40,9 +40,9 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Generation
 
-* Neural Animation Layering for Synthesizing Martial Arts Movements, *SIGGRAPH'21*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf) ⭐ 8,855 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
+* Neural Animation Layering for Synthesizing Martial Arts Movements, *SIGGRAPH'21*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf) ⭐ 8,857 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
 
-* Local Motion Phases for Learning Multi-Contact Character Movements, *SIGGRAPH'20*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf) ⭐ 8,855 | 🐛 36 | 🌐 C++ | 📅 2026-04-17, [\[Code\]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020) ⭐ 8,855 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
+* Local Motion Phases for Learning Multi-Contact Character Movements, *SIGGRAPH'20*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf) ⭐ 8,857 | 🐛 36 | 🌐 C++ | 📅 2026-04-17, [\[Code\]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020) ⭐ 8,857 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
 
 * Human Motion Diffusion as a Generative Prior, *ICLR'24*, [\[Paper\]](https://arxiv.org/abs/2303.01418), [\[Project\]](https://priormdm.github.io/priorMDM-page/), [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 525 | 🐛 6 | 🌐 Python | 📅 2026-04-21
 
@@ -78,9 +78,9 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * Invisible Strings: Revealing Latent Dancer-to-Dancer Interactions with Graph Neural Networks, *ICCC'25*, [\[Paper\]](https://arxiv.org/abs/2503.04816), [\[Code\]](https://github.com/humanai-foundation/ChoreoAI/tree/main/ChoreoAI_Duet_ChorAIgraphy_Luis_Zerkowski) ⭐ 5 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-09-27
 
-* PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation, *ICASSP'26*, [\[Paper\]](https://arxiv.org/abs/2605.00517), [\[Code\]](https://github.com/iSEE-Laboratory/PhysiGen) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-05-29
+* Social Structure Matters in 3D Human-Human Interaction Generation, *arXiv'26*, [\[Paper\]](https://arxiv.org/abs/2606.24255), [\[Code\]](https://github.com/EngineeringAI-LAB/SocialStructureHHI) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-06-24
 
-* Social Structure Matters in 3D Human-Human Interaction Generation, *arXiv'26*, [\[Paper\]](https://arxiv.org/abs/2606.24255), [\[Code\]](https://github.com/EngineeringAI-LAB/SocialStructureHHI) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-06-24
+* PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation, *ICASSP'26*, [\[Paper\]](https://arxiv.org/abs/2605.00517), [\[Code\]](https://github.com/iSEE-Laboratory/PhysiGen) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-05-29
 
 * Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis, *arXiv'26*, [\[Paper\]](https://arxiv.org/abs/2608.20312)
 
@@ -260,7 +260,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### Multi-Human and Objects
 
-* CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, *arXiv'24*, [\[Paper\]](https://arxiv.org/abs/2406.19353), [\[Project\]](https://core4d.github.io/), [\[Code\]](https://github.com/leolyliu/CORE4D-Instructions) ⭐ 124 | 🐛 8 | 🌐 Python | 📅 2025-07-01
+* CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, *arXiv'24*, [\[Paper\]](https://arxiv.org/abs/2406.19353), [\[Project\]](https://core4d.github.io/), [\[Code\]](https://github.com/leolyliu/CORE4D-Instructions) ⭐ 124 | 🐛 9 | 🌐 Python | 📅 2025-07-01
 
 * SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, *arXiv'26*, [\[Paper\]](https://arxiv.org/abs/2604.18557v2), [\[Project\]](https://yw0208.github.io/synagent/), [\[Code\]](https://github.com/yw0208/SynAgent) ⭐ 5 | 🐛 1 | 📅 2026-04-16
 
@@ -286,4 +286,4 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
