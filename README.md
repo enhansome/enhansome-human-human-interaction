@@ -56,7 +56,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * in2IN: Leveraging individual Information to Generate Human INteractions, *CVPRW'24*, [\[Paper\]](https://arxiv.org/abs/2404.09988), [\[Project\]](https://pabloruizponce.github.io/in2IN/), [\[Code\]](https://github.com/pabloruizponce/in2IN) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2024-07-29
 
-* InterMask: 3D Human Interaction Generation via Collaborative Masked Modeling, *ICLR'25*, [\[Paper\]](https://arxiv.org/abs/2410.10010), [\[Project\]](https://gohar-malik.github.io/intermask/), [\[Code\]](https://github.com/gohar-malik/intermask) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2025-09-08
+* InterMask: 3D Human Interaction Generation via Collaborative Masked Modeling, *ICLR'25*, [\[Paper\]](https://arxiv.org/abs/2410.10010), [\[Project\]](https://gohar-malik.github.io/intermask/), [\[Code\]](https://github.com/gohar-malik/intermask) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2025-09-08
 
 * TIMotion: Temporal and Interactive Framework for Efficient Human-Human Motion Generation, *CVPR'25*, [\[Paper\]](https://arxiv.org/abs/2408.17135), [\[Project\]](https://aigc-explorer.github.io/TIMotion-page/), [\[Code\]](https://github.com/AIGC-Explorer/TIMotion) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2026-01-15
 
@@ -132,7 +132,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * ReGenNet: Towards Human Action-Reaction Synthesis, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2403.11882), [\[Project\]](https://liangxuy.github.io/ReGenNet/), [\[Code\]](https://github.com/liangxuy/ReGenNet) ⭐ 72 | 🐛 3 | 🌐 Python | 📅 2024-09-23
 
-* Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, *ICLR'25*, [\[Paper\]](https://arxiv.org/abs/2502.20370), [\[Project\]](https://zju3dv.github.io/ready_to_react/), [\[Code\]](https://github.com/zju3dv/ready_to_react) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2025-03-13
+* Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, *ICLR'25*, [\[Paper\]](https://arxiv.org/abs/2502.20370), [\[Project\]](https://zju3dv.github.io/ready_to_react/), [\[Code\]](https://github.com/zju3dv/ready_to_react) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2025-03-13
 
 * Role-aware Interaction Generation from Textual Description, *ICCV'23*, [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/html/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper.html), [\[Code\]](https://github.com/line/Human-Interaction-Generation) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2023-10-20
 
@@ -286,4 +286,4 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
