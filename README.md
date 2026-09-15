@@ -62,7 +62,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * Ponimator: Unfolding Interactive Pose for Versatile Human-human Interaction Animation, *ICCV'25*, [\[Paper\]](https://arxiv.org/abs/2510.14976), [\[Project\]](https://stevenlsw.github.io/ponimator/), [\[Code\]](https://github.com/stevenlsw/ponimator) ⭐ 40 | 🐛 2 | 🌐 Python | 📅 2025-12-10
 
-* Unified Number-Free Text-to-Motion Generation Via Flow Matching, *CVPR'26*, [\[Paper\]](https://arxiv.org/abs/2603.27040), [\[Project\]](https://githubhgh.github.io/umf/), [\[Code\]](https://github.com/Githubhgh/UMF_CVPR/tree/main) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2026-06-06
+* Unified Number-Free Text-to-Motion Generation Via Flow Matching, *CVPR'26*, [\[Paper\]](https://arxiv.org/abs/2603.27040), [\[Project\]](https://githubhgh.github.io/umf/), [\[Code\]](https://github.com/Githubhgh/UMF_CVPR/tree/main) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2026-06-06
 
 * Diffusion Forcing for Multi-Agent Interaction Sequence Modeling, *arXiv'25*, [\[Paper\]](https://arxiv.org/abs/2512.17900), [\[Project\]](https://von31.github.io/MAGNet/), [\[Code\]](https://github.com/Von31/MAGNet-code) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2026-05-04
 
@@ -132,7 +132,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * ReGenNet: Towards Human Action-Reaction Synthesis, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2403.11882), [\[Project\]](https://liangxuy.github.io/ReGenNet/), [\[Code\]](https://github.com/liangxuy/ReGenNet) ⭐ 72 | 🐛 3 | 🌐 Python | 📅 2024-09-23
 
-* Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, *ICLR'25*, [\[Paper\]](https://arxiv.org/abs/2502.20370), [\[Project\]](https://zju3dv.github.io/ready_to_react/), [\[Code\]](https://github.com/zju3dv/ready_to_react) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2025-03-13
+* Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, *ICLR'25*, [\[Paper\]](https://arxiv.org/abs/2502.20370), [\[Project\]](https://zju3dv.github.io/ready_to_react/), [\[Code\]](https://github.com/zju3dv/ready_to_react) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2026-09-15
 
 * Role-aware Interaction Generation from Textual Description, *ICCV'23*, [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/html/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper.html), [\[Code\]](https://github.com/line/Human-Interaction-Generation) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2023-10-20
 
@@ -186,7 +186,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2404.11291), [\[Code\]](https://github.com/boycehbz/HumanInteraction) ⭐ 46 | 🐛 6 | 🌐 Python | 📅 2025-08-03
 
-* Reconstructing Close Human Interactions from Multiple Views, *SIGGRAPH Asia'23*, [\[Paper\]](https://arxiv.org/abs/2401.16173), [\[Code\]](https://github.com/zju3dv/CloseMoCap) ⭐ 40 | 🐛 3 | 📅 2024-01-29
+* Reconstructing Close Human Interactions from Multiple Views, *SIGGRAPH Asia'23*, [\[Paper\]](https://arxiv.org/abs/2401.16173), [\[Code\]](https://github.com/zju3dv/CloseMoCap) ⭐ 40 | 🐛 3 | 📅 2026-09-15
 
 * MAMMA: Markerless & Automatic Multi-Person Motion Action Capture, *CVPR'26*, [\[Paper\]](https://arxiv.org/abs/2506.13040)
 
@@ -204,7 +204,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * Inter-X: Towards Versatile Human-Human Interaction Analysis, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2312.16051), [\[Project\]](https://liangxuy.github.io/inter-x/), [\[Code\&Data\]](https://github.com/liangxuy/Inter-X) ⭐ 238 | 🐛 12 | 🌐 Python | 📅 2024-08-11
 
-* Nonverbal Interaction Detection, *ECCV'24*, [\[Paper\]](https://arxiv.org/abs/2407.08133), [\[Code\]](https://github.com/weijianan1/NVI) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2024-10-30
+* Nonverbal Interaction Detection, *ECCV'24*, [\[Paper\]](https://arxiv.org/abs/2407.08133), [\[Code\]](https://github.com/weijianan1/NVI) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2024-10-30
 
 * SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2404.04565), [\[Code\]](https://github.com/MCG-NJU/SportsHHI) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2024-05-21
 
@@ -286,4 +286,4 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

@@ -282,7 +282,7 @@
                 "open_issues": 3,
                 "owner": "Githubhgh",
                 "repo": "UMF_CVPR",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -573,8 +573,8 @@
                 "homepage": "https://zju3dv.github.io/ready_to_react/",
                 "id": 932640365,
                 "language": "Python",
-                "license": null,
-                "last_commit": "2025-03-13T12:40:56Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-15T07:35:17Z",
                 "open_issues": 0,
                 "owner": "zju3dv",
                 "repo": "ready_to_react",
@@ -709,8 +709,8 @@
                 "homepage": null,
                 "id": 691405607,
                 "language": null,
-                "license": null,
-                "last_commit": "2024-01-29T14:33:44Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-15T07:34:34Z",
                 "open_issues": 3,
                 "owner": "zju3dv",
                 "repo": "CloseMoCap",
@@ -772,7 +772,7 @@
                 "open_issues": 2,
                 "owner": "weijianan1",
                 "repo": "NVI",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:58:15.543Z",
+    "last_updated": "2026-09-15T17:51:21.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
