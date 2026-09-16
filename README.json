@@ -21,7 +21,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8859,
+                "stars": 8861,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -42,7 +42,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8859,
+                "stars": 8861,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -84,7 +84,7 @@
                 "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 238,
+                "stars": 239,
                 "topics": [
                   "cvpr2024",
                   "dataset-and-benchmark",
@@ -520,7 +520,7 @@
                 "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 238,
+                "stars": 239,
                 "topics": [
                   "cvpr2024",
                   "dataset-and-benchmark",
@@ -742,7 +742,7 @@
                 "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 238,
+                "stars": 239,
                 "topics": [
                   "cvpr2024",
                   "dataset-and-benchmark",
@@ -821,7 +821,7 @@
                 "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 238,
+                "stars": 239,
                 "topics": [
                   "cvpr2024",
                   "dataset-and-benchmark",
@@ -1054,7 +1054,7 @@
                 "open_issues": 9,
                 "owner": "leolyliu",
                 "repo": "CORE4D-Instructions",
-                "stars": 124,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:51:21.211Z",
+    "last_updated": "2026-09-16T17:53:23.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
