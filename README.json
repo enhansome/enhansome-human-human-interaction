@@ -21,7 +21,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8880,
+                "stars": 8881,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -42,7 +42,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8880,
+                "stars": 8881,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -63,7 +63,7 @@
                 "open_issues": 6,
                 "owner": "priorMDM",
                 "repo": "priorMDM",
-                "stars": 527,
+                "stars": 528,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1075,7 +1075,7 @@
                 "open_issues": 1,
                 "owner": "yw0208",
                 "repo": "SynAgent",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:42:13.810Z",
+    "last_updated": "2026-10-04T17:55:50.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
@@ -1158,7 +1158,7 @@
       "open_issues": 1,
       "owner": "liangxuy",
       "repo": "awesome-human-human-interaction",
-      "stars": 107,
+      "stars": 108,
       "topics": [
         "awesome-list",
         "group-motion",
