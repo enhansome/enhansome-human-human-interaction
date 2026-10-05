@@ -21,7 +21,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8881,
+                "stars": 8882,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -42,7 +42,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8881,
+                "stars": 8882,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -84,7 +84,7 @@
                 "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 239,
+                "stars": 240,
                 "topics": [
                   "cvpr2024",
                   "dataset-and-benchmark",
@@ -398,7 +398,7 @@
                 "open_issues": 2,
                 "owner": "boycehbz",
                 "repo": "StaCOM",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -520,7 +520,7 @@
                 "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 239,
+                "stars": 240,
                 "topics": [
                   "cvpr2024",
                   "dataset-and-benchmark",
@@ -693,7 +693,7 @@
                 "open_issues": 6,
                 "owner": "boycehbz",
                 "repo": "HumanInteraction",
-                "stars": 47,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -742,7 +742,7 @@
                 "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 239,
+                "stars": 240,
                 "topics": [
                   "cvpr2024",
                   "dataset-and-benchmark",
@@ -821,7 +821,7 @@
                 "open_issues": 12,
                 "owner": "liangxuy",
                 "repo": "Inter-X",
-                "stars": 239,
+                "stars": 240,
                 "topics": [
                   "cvpr2024",
                   "dataset-and-benchmark",
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:55:50.806Z",
+    "last_updated": "2026-10-05T21:19:40.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
