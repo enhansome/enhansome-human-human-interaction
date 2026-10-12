@@ -21,7 +21,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8890,
+                "stars": 8892,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -42,7 +42,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8890,
+                "stars": 8892,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -239,6 +239,27 @@
             },
             {
               "node_type": "item",
+              "title": "Unified Number-Free Text-to-Motion Generation Via Flow Matching, CVPR'26, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code Implementation for \"Unified Number-Free Text-to-Motion Generation Via Flow Matching\" (CVPR26)",
+                "homepage": null,
+                "id": 1189131010,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-06-06T10:43:30Z",
+                "open_issues": 3,
+                "owner": "Githubhgh",
+                "repo": "UMF_CVPR",
+                "stars": 40,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:21:13.069Z"
+            },
+            {
+              "node_type": "item",
               "title": "Ponimator: Unfolding Interactive Pose for Versatile Human-human Interaction Animation, ICCV'25, [Paper]",
               "description": ", [Project], [Code]",
               "children": [],
@@ -263,27 +284,6 @@
                   "motion-generation",
                   "text-to-motion"
                 ]
-              },
-              "first_seen": "2026-08-28T23:21:13.069Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Unified Number-Free Text-to-Motion Generation Via Flow Matching, CVPR'26, [Paper]",
-              "description": ", [Project], [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code Implementation for \"Unified Number-Free Text-to-Motion Generation Via Flow Matching\" (CVPR26)",
-                "homepage": null,
-                "id": 1189131010,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-06-06T10:43:30Z",
-                "open_issues": 3,
-                "owner": "Githubhgh",
-                "repo": "UMF_CVPR",
-                "stars": 39,
-                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             },
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:33:46.368Z",
+    "last_updated": "2026-10-12T21:56:10.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
