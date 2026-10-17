@@ -21,7 +21,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8895,
+                "stars": 8896,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -42,7 +42,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8895,
+                "stars": 8896,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:46:10.895Z",
+    "last_updated": "2026-10-17T16:46:07.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
@@ -1158,7 +1158,7 @@
       "open_issues": 1,
       "owner": "liangxuy",
       "repo": "awesome-human-human-interaction",
-      "stars": 111,
+      "stars": 112,
       "topics": [
         "awesome-list",
         "group-motion",
