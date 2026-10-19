@@ -21,7 +21,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8897,
+                "stars": 8899,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -42,7 +42,7 @@
                 "open_issues": 36,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8897,
+                "stars": 8899,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -363,6 +363,27 @@
             },
             {
               "node_type": "item",
+              "title": "Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation, CVPR'26, [Paper]",
+              "description": ", [Project], [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1191215559,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-06-19T07:40:13Z",
+                "open_issues": 2,
+                "owner": "boycehbz",
+                "repo": "StaCOM",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:21:13.069Z"
+            },
+            {
+              "node_type": "item",
               "title": "ContactGen: Contact-Guided Interactive 3D Human Generation for Partners, AAAI'24, [Paper]",
               "description": ", [Project], [Code]",
               "children": [],
@@ -378,27 +399,6 @@
                 "owner": "dongjunKu",
                 "repo": "ContactGen",
                 "stars": 19,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:21:13.069Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation, CVPR'26, [Paper]",
-              "description": ", [Project], [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1191215559,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-06-19T07:40:13Z",
-                "open_issues": 2,
-                "owner": "boycehbz",
-                "repo": "StaCOM",
-                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1075,7 +1075,7 @@
                 "open_issues": 1,
                 "owner": "yw0208",
                 "repo": "SynAgent",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:01:14.658Z",
+    "last_updated": "2026-10-19T19:34:53.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
