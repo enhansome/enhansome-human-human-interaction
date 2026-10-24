@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-04-17T17:03:39Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8904,
+                "stars": 8905,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -39,10 +39,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-04-17T17:03:39Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8904,
+                "stars": 8905,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -578,7 +578,7 @@
                 "open_issues": 0,
                 "owner": "zju3dv",
                 "repo": "ready_to_react",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:02:37.701Z",
+    "last_updated": "2026-10-24T17:07:43.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",

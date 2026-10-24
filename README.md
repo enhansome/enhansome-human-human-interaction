@@ -40,9 +40,9 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Generation
 
-* Neural Animation Layering for Synthesizing Martial Arts Movements, *SIGGRAPH'21*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf) ⭐ 8,904 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
+* Neural Animation Layering for Synthesizing Martial Arts Movements, *SIGGRAPH'21*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf) ⭐ 8,905 | 🐛 37 | 🌐 C++ | 📅 2026-04-17
 
-* Local Motion Phases for Learning Multi-Contact Character Movements, *SIGGRAPH'20*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf) ⭐ 8,904 | 🐛 36 | 🌐 C++ | 📅 2026-04-17, [\[Code\]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020) ⭐ 8,904 | 🐛 36 | 🌐 C++ | 📅 2026-04-17
+* Local Motion Phases for Learning Multi-Contact Character Movements, *SIGGRAPH'20*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf) ⭐ 8,905 | 🐛 37 | 🌐 C++ | 📅 2026-04-17, [\[Code\]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020) ⭐ 8,905 | 🐛 37 | 🌐 C++ | 📅 2026-04-17
 
 * Human Motion Diffusion as a Generative Prior, *ICLR'24*, [\[Paper\]](https://arxiv.org/abs/2303.01418), [\[Project\]](https://priormdm.github.io/priorMDM-page/), [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 528 | 🐛 6 | 🌐 Python | 📅 2026-04-21
 
@@ -132,7 +132,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * ReGenNet: Towards Human Action-Reaction Synthesis, *CVPR'24*, [\[Paper\]](https://arxiv.org/abs/2403.11882), [\[Project\]](https://liangxuy.github.io/ReGenNet/), [\[Code\]](https://github.com/liangxuy/ReGenNet) ⭐ 72 | 🐛 3 | 🌐 Python | 📅 2024-09-23
 
-* Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, *ICLR'25*, [\[Paper\]](https://arxiv.org/abs/2502.20370), [\[Project\]](https://zju3dv.github.io/ready_to_react/), [\[Code\]](https://github.com/zju3dv/ready_to_react) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2026-09-15
+* Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, *ICLR'25*, [\[Paper\]](https://arxiv.org/abs/2502.20370), [\[Project\]](https://zju3dv.github.io/ready_to_react/), [\[Code\]](https://github.com/zju3dv/ready_to_react) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2026-09-15
 
 * Role-aware Interaction Generation from Textual Description, *ICCV'23*, [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/html/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper.html), [\[Code\]](https://github.com/line/Human-Interaction-Generation) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2023-10-20
 
@@ -286,4 +286,4 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
