@@ -21,7 +21,7 @@
                 "open_issues": 37,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8908,
+                "stars": 8909,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -42,7 +42,7 @@
                 "open_issues": 37,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8908,
+                "stars": 8909,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -430,6 +430,27 @@
             },
             {
               "node_type": "item",
+              "title": "PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation, ICASSP'26, [Paper]",
+              "description": ", [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation",
+                "homepage": null,
+                "id": 1223075579,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-29T11:19:12Z",
+                "open_issues": 1,
+                "owner": "iSEE-Laboratory",
+                "repo": "PhysiGen",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:21:13.069Z"
+            },
+            {
+              "node_type": "item",
               "title": "Invisible Strings: Revealing Latent Dancer-to-Dancer Interactions with Graph Neural Networks, ICCC'25, [Paper]",
               "description": ", [Code]",
               "children": [],
@@ -473,27 +494,6 @@
                   "interaction",
                   "text-driven"
                 ]
-              },
-              "first_seen": "2026-08-28T23:21:13.069Z"
-            },
-            {
-              "node_type": "item",
-              "title": "PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation, ICASSP'26, [Paper]",
-              "description": ", [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation",
-                "homepage": null,
-                "id": 1223075579,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-05-29T11:19:12Z",
-                "open_issues": 1,
-                "owner": "iSEE-Laboratory",
-                "repo": "PhysiGen",
-                "stars": 4,
-                "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
             }
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:09:06.100Z",
+    "last_updated": "2026-10-28T19:12:54.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
