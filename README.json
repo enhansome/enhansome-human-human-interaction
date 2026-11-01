@@ -1131,7 +1131,7 @@
                 "open_issues": 1,
                 "owner": "YNG916",
                 "repo": "InterEdit",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:05:35.663Z",
+    "last_updated": "2026-11-01T18:41:45.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
@@ -1158,7 +1158,7 @@
       "open_issues": 1,
       "owner": "liangxuy",
       "repo": "awesome-human-human-interaction",
-      "stars": 112,
+      "stars": 113,
       "topics": [
         "awesome-list",
         "group-motion",

@@ -278,7 +278,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### Other Applications
 
-* InterEdit: Navigating Text-Guided 3D Dyadic Human Motion Editing, *ECCV'26*, [\[Paper\]](https://arxiv.org/abs/2603.13082), [\[Code\]](https://github.com/YNG916/InterEdit) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-04-17
+* InterEdit: Navigating Text-Guided 3D Dyadic Human Motion Editing, *ECCV'26*, [\[Paper\]](https://arxiv.org/abs/2603.13082), [\[Code\]](https://github.com/YNG916/InterEdit) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-04-17
 
 * HelloWorld: Enabling Socially Interactive Characters in Video World Models, *arXiv'26*, [\[Paper\]](https://arxiv.org/abs/2608.05070)
 
@@ -286,4 +286,4 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
