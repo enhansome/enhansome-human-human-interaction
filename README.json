@@ -21,7 +21,7 @@
                 "open_issues": 37,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8914,
+                "stars": 8916,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -42,7 +42,7 @@
                 "open_issues": 37,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8914,
+                "stars": 8916,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -550,7 +550,7 @@
                 "open_issues": 3,
                 "owner": "liangxuy",
                 "repo": "ReGenNet",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "cvpr2024",
                   "diffusion-models",
@@ -772,7 +772,7 @@
                 "open_issues": 2,
                 "owner": "weijianan1",
                 "repo": "NVI",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1054,7 +1054,7 @@
                 "open_issues": 9,
                 "owner": "leolyliu",
                 "repo": "CORE4D-Instructions",
-                "stars": 125,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:37:48.350Z",
+    "last_updated": "2026-11-05T20:53:46.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
