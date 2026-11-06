@@ -21,7 +21,7 @@
                 "open_issues": 37,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8916,
+                "stars": 8917,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -42,7 +42,7 @@
                 "open_issues": 37,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8916,
+                "stars": 8917,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -931,7 +931,7 @@
                 "id": 848900287,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2025-06-30T17:48:42Z",
+                "last_commit": "2026-11-06T17:20:26Z",
                 "open_issues": 0,
                 "owner": "vita-epfl",
                 "repo": "HHI-Assist",
@@ -1054,7 +1054,7 @@
                 "open_issues": 9,
                 "owner": "leolyliu",
                 "repo": "CORE4D-Instructions",
-                "stars": 126,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:53:46.859Z",
+    "last_updated": "2026-11-06T20:11:11.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
@@ -1158,7 +1158,7 @@
       "open_issues": 1,
       "owner": "liangxuy",
       "repo": "awesome-human-human-interaction",
-      "stars": 113,
+      "stars": 114,
       "topics": [
         "awesome-list",
         "group-motion",
