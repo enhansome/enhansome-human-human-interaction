@@ -66,7 +66,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * Diffusion Forcing for Multi-Agent Interaction Sequence Modeling, *arXiv'25*, [\[Paper\]](https://arxiv.org/abs/2512.17900), [\[Project\]](https://von31.github.io/MAGNet/), [\[Code\]](https://github.com/Von31/MAGNet-code) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2026-05-04
 
-* MixerMDM: Learnable Composition of Human Motion Diffusion Models, *CVPR'25*, [\[Paper\]](https://arxiv.org/abs/2504.01019), [\[Project\]](https://pabloruizponce.com/papers/MixerMDM), [\[Code\]](https://github.com/pabloruizponce/MixerMDM) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2026-06-01
+* MixerMDM: Learnable Composition of Human Motion Diffusion Models, *CVPR'25*, [\[Paper\]](https://arxiv.org/abs/2504.01019), [\[Project\]](https://pabloruizponce.com/papers/MixerMDM), [\[Code\]](https://github.com/pabloruizponce/MixerMDM) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2026-06-01
 
 * InterMoE: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE, *AAAI'26*, [\[Paper\]](https://arxiv.org/abs/2511.13488), [\[Code\]](https://github.com/Lighten001/InterMoE) ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2026-04-06
 
@@ -286,4 +286,4 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

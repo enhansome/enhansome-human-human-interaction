@@ -324,7 +324,7 @@
                 "open_issues": 2,
                 "owner": "pabloruizponce",
                 "repo": "MixerMDM",
-                "stars": 26,
+                "stars": 27,
                 "topics": [
                   "cvpr",
                   "cvpr2025",
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:11:11.407Z",
+    "last_updated": "2026-11-07T18:25:38.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
