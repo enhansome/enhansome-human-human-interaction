@@ -21,7 +21,7 @@
                 "open_issues": 37,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8918,
+                "stars": 8917,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -42,7 +42,7 @@
                 "open_issues": 37,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8918,
+                "stars": 8917,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -303,7 +303,7 @@
                 "open_issues": 1,
                 "owner": "Von31",
                 "repo": "MAGNet-code",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -1051,7 +1051,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-07-01T04:24:28Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "leolyliu",
                 "repo": "CORE4D-Instructions",
                 "stars": 127,
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:36:23.000Z",
+    "last_updated": "2026-11-09T23:14:03.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
