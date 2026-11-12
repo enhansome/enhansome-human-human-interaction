@@ -21,7 +21,7 @@
                 "open_issues": 37,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8920,
+                "stars": 8922,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -42,7 +42,7 @@
                 "open_issues": 37,
                 "owner": "sebastianstarke",
                 "repo": "AI4Animation",
-                "stars": 8920,
+                "stars": 8922,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:21:13.069Z"
@@ -135,7 +135,7 @@
                 "open_issues": 2,
                 "owner": "zhenzhiwang",
                 "repo": "intercontrol",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "human-motion-generation"
                 ]
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:00:07.123Z",
+    "last_updated": "2026-11-12T21:15:43.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
