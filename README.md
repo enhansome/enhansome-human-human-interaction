@@ -40,9 +40,9 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Generation
 
-* Neural Animation Layering for Synthesizing Martial Arts Movements, *SIGGRAPH'21*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf) ⭐ 8,923 | 🐛 37 | 🌐 C++ | 📅 2026-04-17
+* Neural Animation Layering for Synthesizing Martial Arts Movements, *SIGGRAPH'21*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf) ⭐ 8,926 | 🐛 37 | 🌐 C++ | 📅 2026-04-17
 
-* Local Motion Phases for Learning Multi-Contact Character Movements, *SIGGRAPH'20*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf) ⭐ 8,923 | 🐛 37 | 🌐 C++ | 📅 2026-04-17, [\[Code\]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020) ⭐ 8,923 | 🐛 37 | 🌐 C++ | 📅 2026-04-17
+* Local Motion Phases for Learning Multi-Contact Character Movements, *SIGGRAPH'20*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf) ⭐ 8,926 | 🐛 37 | 🌐 C++ | 📅 2026-04-17, [\[Code\]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020) ⭐ 8,926 | 🐛 37 | 🌐 C++ | 📅 2026-04-17
 
 * Human Motion Diffusion as a Generative Prior, *ICLR'24*, [\[Paper\]](https://arxiv.org/abs/2303.01418), [\[Project\]](https://priormdm.github.io/priorMDM-page/), [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 529 | 🐛 6 | 🌐 Python | 📅 2026-04-21
 
@@ -64,7 +64,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * Ponimator: Unfolding Interactive Pose for Versatile Human-human Interaction Animation, *ICCV'25*, [\[Paper\]](https://arxiv.org/abs/2510.14976), [\[Project\]](https://stevenlsw.github.io/ponimator/), [\[Code\]](https://github.com/stevenlsw/ponimator) ⭐ 40 | 🐛 2 | 🌐 Python | 📅 2025-12-10
 
-* Diffusion Forcing for Multi-Agent Interaction Sequence Modeling, *arXiv'25*, [\[Paper\]](https://arxiv.org/abs/2512.17900), [\[Project\]](https://von31.github.io/MAGNet/), [\[Code\]](https://github.com/Von31/MAGNet-code) ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2026-05-04
+* Diffusion Forcing for Multi-Agent Interaction Sequence Modeling, *arXiv'25*, [\[Paper\]](https://arxiv.org/abs/2512.17900), [\[Project\]](https://von31.github.io/MAGNet/), [\[Code\]](https://github.com/Von31/MAGNet-code) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2026-05-04
 
 * MixerMDM: Learnable Composition of Human Motion Diffusion Models, *CVPR'25*, [\[Paper\]](https://arxiv.org/abs/2504.01019), [\[Project\]](https://pabloruizponce.com/papers/MixerMDM), [\[Code\]](https://github.com/pabloruizponce/MixerMDM) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2026-06-01
 
@@ -286,4 +286,4 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
