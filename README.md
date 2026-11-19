@@ -40,9 +40,9 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Generation
 
-* Neural Animation Layering for Synthesizing Martial Arts Movements, *SIGGRAPH'21*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf) ⭐ 8,929 | 🐛 37 | 🌐 C++ | 📅 2026-04-17
+* Neural Animation Layering for Synthesizing Martial Arts Movements, *SIGGRAPH'21*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf) ⭐ 8,928 | 🐛 37 | 🌐 C++ | 📅 2026-04-17
 
-* Local Motion Phases for Learning Multi-Contact Character Movements, *SIGGRAPH'20*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf) ⭐ 8,929 | 🐛 37 | 🌐 C++ | 📅 2026-04-17, [\[Code\]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020) ⭐ 8,929 | 🐛 37 | 🌐 C++ | 📅 2026-04-17
+* Local Motion Phases for Learning Multi-Contact Character Movements, *SIGGRAPH'20*, [\[Paper\]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf) ⭐ 8,928 | 🐛 37 | 🌐 C++ | 📅 2026-04-17, [\[Code\]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020) ⭐ 8,928 | 🐛 37 | 🌐 C++ | 📅 2026-04-17
 
 * Human Motion Diffusion as a Generative Prior, *ICLR'24*, [\[Paper\]](https://arxiv.org/abs/2303.01418), [\[Project\]](https://priormdm.github.io/priorMDM-page/), [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 530 | 🐛 6 | 🌐 Python | 📅 2026-04-21
 
@@ -60,7 +60,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * TIMotion: Temporal and Interactive Framework for Efficient Human-Human Motion Generation, *CVPR'25*, [\[Paper\]](https://arxiv.org/abs/2408.17135), [\[Project\]](https://aigc-explorer.github.io/TIMotion-page/), [\[Code\]](https://github.com/AIGC-Explorer/TIMotion) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2026-01-15
 
-* Unified Number-Free Text-to-Motion Generation Via Flow Matching, *CVPR'26*, [\[Paper\]](https://arxiv.org/abs/2603.27040), [\[Project\]](https://githubhgh.github.io/umf/), [\[Code\]](https://github.com/Githubhgh/UMF_CVPR/tree/main) ⭐ 40 | 🐛 3 | 🌐 Python | 📅 2026-06-06
+* Unified Number-Free Text-to-Motion Generation Via Flow Matching, *CVPR'26*, [\[Paper\]](https://arxiv.org/abs/2603.27040), [\[Project\]](https://githubhgh.github.io/umf/), [\[Code\]](https://github.com/Githubhgh/UMF_CVPR/tree/main) ⭐ 41 | 🐛 3 | 🌐 Python | 📅 2026-06-06
 
 * Ponimator: Unfolding Interactive Pose for Versatile Human-human Interaction Animation, *ICCV'25*, [\[Paper\]](https://arxiv.org/abs/2510.14976), [\[Project\]](https://stevenlsw.github.io/ponimator/), [\[Code\]](https://github.com/stevenlsw/ponimator) ⭐ 40 | 🐛 2 | 🌐 Python | 📅 2025-12-10
 
@@ -68,9 +68,9 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 * MixerMDM: Learnable Composition of Human Motion Diffusion Models, *CVPR'25*, [\[Paper\]](https://arxiv.org/abs/2504.01019), [\[Project\]](https://pabloruizponce.com/papers/MixerMDM), [\[Code\]](https://github.com/pabloruizponce/MixerMDM) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2026-06-01
 
-* InterMoE: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE, *AAAI'26*, [\[Paper\]](https://arxiv.org/abs/2511.13488), [\[Code\]](https://github.com/Lighten001/InterMoE) ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2026-04-06
+* Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation, *CVPR'26*, [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Stability-Driven_Motion_Generation_for_Object-Guided_Human-Human_Co-Manipulation_CVPR_2026_paper.pdf), [\[Project\]](http://www.buzhenhuang.com/works/StaCOM.html), [\[Code\]](https://github.com/boycehbz/StaCOM) ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2026-06-19
 
-* Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation, *CVPR'26*, [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Stability-Driven_Motion_Generation_for_Object-Guided_Human-Human_Co-Manipulation_CVPR_2026_paper.pdf), [\[Project\]](http://www.buzhenhuang.com/works/StaCOM.html), [\[Code\]](https://github.com/boycehbz/StaCOM) ⭐ 19 | 🐛 2 | 🌐 Python | 📅 2026-06-19
+* InterMoE: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE, *AAAI'26*, [\[Paper\]](https://arxiv.org/abs/2511.13488), [\[Code\]](https://github.com/Lighten001/InterMoE) ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2026-04-06
 
 * ContactGen: Contact-Guided Interactive 3D Human Generation for Partners, *AAAI'24*, [\[Paper\]](https://arxiv.org/abs/2401.17212), [\[Project\]](https://dongjunku.github.io/contactgen/), [\[Code\]](https://github.com/dongjunKu/ContactGen/) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2024-10-11
 
@@ -286,4 +286,4 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
