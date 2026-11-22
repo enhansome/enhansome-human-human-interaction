@@ -135,7 +135,7 @@
                 "open_issues": 2,
                 "owner": "zhenzhiwang",
                 "repo": "intercontrol",
-                "stars": 85,
+                "stars": 84,
                 "topics": [
                   "human-motion-generation"
                 ]
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:19:13.677Z",
+    "last_updated": "2026-11-22T20:31:45.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome human-human interaction resources.",
